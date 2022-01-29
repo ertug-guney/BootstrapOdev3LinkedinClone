@@ -1,4 +1,4 @@
-# Ödev 3
+# BootstrapOdev3LinkedinKlon
 
 ## Bootstrap Linkedin Clone
 
